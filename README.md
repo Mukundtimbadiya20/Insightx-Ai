@@ -115,3 +115,5 @@ validated healthcare risk thresholds.
 - Additional statistical anomaly detection methods
 - API integration
 - Automated deployment
+
+Live on : https://insightx-ai-te5uxi4tiztvddueccazvz.streamlit.app/
