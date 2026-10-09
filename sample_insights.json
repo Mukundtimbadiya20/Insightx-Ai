@@ -1,0 +1,14 @@
+[
+  {
+    "insight_id": "INS-0001",
+    "type": "trend",
+    "district": "Ahmedabad",
+    "indicator": "anc_coverage",
+    "period": "2026-08",
+    "metric": 69,
+    "previous_value": 85,
+    "change_pct": -18.82,
+    "severity": "High",
+    "explanation": "ANC coverage in Ahmedabad dropped by 18.8% compared to the previous month, exceeding the 10% significant-change threshold."
+  }
+]
