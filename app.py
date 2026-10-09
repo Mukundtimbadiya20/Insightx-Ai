@@ -420,9 +420,10 @@ correlation_matrix, correlations = detect_correlations(
 )
 
 insights = generate_insights(
-    trends,
-    outliers,
-    correlations,
+    df=filtered_df,
+    trends=trends,
+    outliers=outliers,
+    correlations=correlations,
     trend_threshold=trend_threshold,
 )
 
